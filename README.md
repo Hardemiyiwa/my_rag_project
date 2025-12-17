@@ -104,32 +104,31 @@ jupyter notebook rag_system.ipynb
 ### Example 1: Direct Question
 
 **User:**  
-Tell me about victor
+what projects has Victor worked on?
 
 **System:**  
-Victor Ridwan Ademuyiwa is a driven and purpose-oriented individual with a background in AI engineering, machine learning, and software engineering. He was born on May 27th and raised in Ijoko, Sango Ota, Ogun State, Nigeria. Victor has a passion for teaching and mentorship, guiding colleagues, juniors, and friends with patience and clarity. His journey is defined by resilience, curiosity, and a deep commitment to growth.
+Victor Ridwan Ademuyiwa has worked on projects ranging from AI systems to interactive web apps, demonstrating his ability to learn, build, and solve problems. His projects reflect steady growth, curiosity, and a willingness to explore new technologies. Each project showcases his consistency, creativity, and courage to keep improving.
 
 
 **Sources:**  
-- documents\Personal Biography.pdf
-- documents\Teaching and Mentorship Experience.pdf
-- documents\Professional Resume.pdf
+- documents\Projects.pdf
 
 ---
 
 ### Example 2: Follow-Up Question (Conversational Memory)
 
 **User:**  
-Which of those projects involve RAG systems?
+Which of those projects are AI and Machine Learning project?
 
 **System:**  
- Victor Ridwan Ademuyiwa has worked on the following project involving RAG systems:
-- RAG Chatbot (Personal AI Assistant): Built a Retrieval-Augmented Generation system that answers questions about personal background using embeddings, LangChain, and OpenAI LLMs.
+The AI & Machine Learning projects that Victor Ridwan Ademuyiwa has worked on are:
+- RAG Chatbot (Personal AI Assistant)
+- Student Performance Prediction
+- Car Price Prediction System
 
 
 **Sources:**  
 -- documents\Projects.pdf
-- documents\Professional Resume.pdf
 
 ---
 
